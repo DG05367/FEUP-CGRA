@@ -19,9 +19,7 @@ Code developed in Computer Graphics FEUP curricular unit.
 
 ## Project [📂](project/)
 
-![](Project/preview.png)
+![](project/preview.png)
 
 This project consists on a train, inspired by the real train "Thomas the Pain Train", that goes around on the tracks and stops on stations.
 The project is still missing some parts...
-
-Click [here](https://DG05367.github.io/FEUP-CGRA/project/) to see a live demo. To start the train press 'C'.
