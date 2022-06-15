@@ -1,11 +1,5 @@
 # CGRA 2021/2022
 
-## Group T10G08
-| Name             | Number    | E-Mail             |
-| ---------------- | --------- | ------------------ |
-| Diogo Gomes      | 201805367 | up201805367@up.pt  |
-| Rogério Rocha    | 201805123 | up201805123@up.pt  |
-
 Code developed in Computer Graphics FEUP curricular unit.
 
   - [tp1](tp1/README.md)
